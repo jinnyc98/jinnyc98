@@ -1,23 +1,26 @@
-## Hi there 👋 I am Data Science MS student at Stanford University. 
+## Hi there 👋 I'm Jinny Chung, a Data Science MS student at Stanford University. 
 
 - 🌲 I'm currently studying Statistics - Data Science at Stanford University.
 - 📊 I worked at [Kandu Health](https://kanduhealth.com/), where we make the world a better place for stroke survivors.
 - 🐻 I graduated from UC Berkeley with Highest Distinction in 2021, where I double majored in Molecular & Cell Biology and Data Science.
 - 🧗‍♀️ I'm a climber (I love outdoors!) and a cat mom.
-- 🪰 My go-to fun fact: I can tell male and female fruit flies apart. ([Here](https://www.researchgate.net/figure/Determining-gender-in-fruit-flies-A-Males-have-darker-and-rounder-abdomen-than-females_fig3_236047716)'s how if you're interested.)
+- 🪰 My go-to fun fact: I can tell male and female fruit flies apart. (So can you - [here](https://www.researchgate.net/figure/Determining-gender-in-fruit-flies-A-Males-have-darker-and-rounder-abdomen-than-females_fig3_236047716)'s how.)
+
+## Projects
+_Some of the hyperlinks are not public, please shoot me an email for access!_
 
 ### Recently I worked on ...
-- From Headlines to Bottom Lines: Leveraging Earning Releases and News Headlines to Predict Stock Price Movement (report, [code](https://github.com/krishnanananya/CS224N-StonkPredictions))
-- Assessment of the Causal Impact of Aspirin and Heparin Treatment on Acute Ischaemic Stroke: A Comprehensive Analysis Using Lin’s Estimator ([report](https://github.com/jinnyc98/STAT209/blob/main/CausalInference_Stroke.pdf), [code](https://colab.research.google.com/drive/1lrMfDwjVv6sTxsCHYL7CKh9RbEr0XGNQ#scrollTo=0_9Ld56XxEVD))
-- Wikifast: A Speedy and Efficient Wikipedia Graph Search Algorithm ([report](https://github.com/jinnyc98/CS221/blob/main/AI_Wikifast.pdf), [code](https://github.com/PettyCode/wikifast))
-- Optimization of a Domain Decomposition-Based Coupling Algorithm for PINNs via the Overlapping and Non-Overlapping Alternating Schwarz Method ([video](https://www.youtube.com/watch?v=yzQ-dTxzUXQ))
-- COVID Cases in Gotham City ([code](https://github.com/jinnyc98/Stat153/blob/master/Project/TimeSeries_COVID.pdf), [code](https://github.com/jinnyc98/Stat153/blob/master/Project/FinalProject.R))
+- ✨NLP✨ From Headlines to Bottom Lines: Leveraging Earning Releases and News Headlines to Predict Stock Price Movement ([repo](https://github.com/krishnanananya/CS224N-StonkPredictions))
+- ✨Causal Inference✨ Assessment of the Causal Impact of Aspirin and Heparin Treatment on Acute Ischaemic Stroke: A Comprehensive Analysis Using Lin’s Estimator ([report](https://drive.google.com/file/d/1DotDgHZ91-YwKd8kLIGSnzERITKE1dSt/view?usp=sharing), [code](https://colab.research.google.com/drive/1lrMfDwjVv6sTxsCHYL7CKh9RbEr0XGNQ))
+- ✨AI✨ Wikifast: A Speedy and Efficient Wikipedia Graph Search Algorithm ([report](https://github.com/jinnyc98/CS221/blob/main/AI_Wikifast.pdf), [repo](https://github.com/PettyCode/wikifast))
+- ✨PINN✨ Optimization of a Domain Decomposition-Based Coupling Algorithm for PINNs via the Overlapping and Non-Overlapping Alternating Schwarz Method ([video](https://www.youtube.com/watch?v=yzQ-dTxzUXQ))
+- ✨Time Series✨ COVID Case Count Prediction with ARIMA Models ([report](https://drive.google.com/file/d/1VbiK9HNkzMH4UJw7LLW47ldDyaEvyMcd/view?usp=sharing), [code](https://github.com/jinnyc98/Stat153/blob/master/Project/FinalProject.R))
 
 ### Currenlty I'm working on ...
 - Integration and Comparative Analysis of scRNAseqFB and CyTOF Data for Chronic Myeloid Leukemia
 
 
-### Programming Languages and Tools
+## Programming Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
